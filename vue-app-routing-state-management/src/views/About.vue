@@ -37,7 +37,7 @@
 
   <style>
 div{
-  margin-left: 3px;
+  /* margin-left: 3px; */
   align-items: center;
 }
 </style>
