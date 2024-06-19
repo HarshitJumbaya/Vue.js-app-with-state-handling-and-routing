@@ -36,6 +36,7 @@ subscribe(() => {
 .counter {
   text-align: center;
   margin-top: 2rem;
+  background-color: #003064;
 }
 
 h3 {
@@ -47,7 +48,7 @@ h3 {
   margin: 0.5rem;
   padding: 0.5rem 1rem;
   background-color: #007bff;
-  color: white;
+  color: rgb(255, 255, 255);
   border: none;
   cursor: pointer;
 }
